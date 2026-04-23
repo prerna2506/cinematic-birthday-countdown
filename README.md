@@ -41,14 +41,9 @@ Built with **Vanilla HTML, CSS, and JavaScript**, this project heavily prioritiz
 
 Since this is a lightweight, pure static frontend site, there is no need to run `npm install` or use a build step! Simply serve it locally:
 
-### 1. Clone the repository
-
-```
-git clone https://github.com/your-username/cinematic-birthday-countdown.git
-cd cinematic-birthday-countdown
 ```
 
-### 2. Run a Local Server
+### 1. Run a Local Server
 You can simply use a lightweight HTTP server in the folder to view the site locally:
 ```
 npx serve .
